@@ -768,6 +768,7 @@ figure:hover + span {
   font-size: 22px;
   color: #d37a06;
   text-transform: uppercase;
+  margin-left: 10px;
 }
 
 .enim_text {
@@ -775,7 +776,7 @@ figure:hover + span {
   float: left;
   font-size: 16px;
   color: #737372;
-  margin: 0px;
+  margin: 0px 0px 0px 10px;
 }
 
 .quick_icon {
